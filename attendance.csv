@@ -1,0 +1,151 @@
+student_id,subject,total_classes_scheduled,classes_completed,classes_attended
+STU001,Python Programming,50,30,21
+STU001,Mathematics,50,30,26
+STU001,Machine Learning,50,30,18
+STU001,Database Management,50,30,23
+STU001,Java Programming,50,30,28
+STU002,Python Programming,50,30,24
+STU002,Mathematics,50,30,29
+STU002,Machine Learning,50,30,21
+STU002,Database Management,50,30,26
+STU002,Java Programming,50,30,18
+STU003,Python Programming,50,30,27
+STU003,Mathematics,50,30,19
+STU003,Machine Learning,50,30,24
+STU003,Database Management,50,30,29
+STU003,Java Programming,50,30,21
+STU004,Python Programming,50,30,30
+STU004,Mathematics,50,30,22
+STU004,Machine Learning,50,30,27
+STU004,Database Management,50,30,19
+STU004,Java Programming,50,30,24
+STU005,Python Programming,50,30,20
+STU005,Mathematics,50,30,25
+STU005,Machine Learning,50,30,30
+STU005,Database Management,50,30,22
+STU005,Java Programming,50,30,27
+STU006,Python Programming,50,30,23
+STU006,Mathematics,50,30,28
+STU006,Machine Learning,50,30,20
+STU006,Database Management,50,30,25
+STU006,Java Programming,50,30,30
+STU007,Python Programming,50,30,26
+STU007,Mathematics,50,30,18
+STU007,Machine Learning,50,30,23
+STU007,Database Management,50,30,28
+STU007,Java Programming,50,30,20
+STU008,Python Programming,50,30,29
+STU008,Mathematics,50,30,21
+STU008,Machine Learning,50,30,26
+STU008,Database Management,50,30,18
+STU008,Java Programming,50,30,23
+STU009,Python Programming,50,30,19
+STU009,Mathematics,50,30,24
+STU009,Machine Learning,50,30,29
+STU009,Database Management,50,30,21
+STU009,Java Programming,50,30,26
+STU010,Python Programming,50,30,22
+STU010,Mathematics,50,30,27
+STU010,Machine Learning,50,30,19
+STU010,Database Management,50,30,24
+STU010,Java Programming,50,30,29
+STU011,Python Programming,50,30,25
+STU011,Mathematics,50,30,30
+STU011,Machine Learning,50,30,22
+STU011,Database Management,50,30,27
+STU011,Java Programming,50,30,19
+STU012,Python Programming,50,30,28
+STU012,Mathematics,50,30,20
+STU012,Machine Learning,50,30,25
+STU012,Database Management,50,30,30
+STU012,Java Programming,50,30,22
+STU013,Python Programming,50,30,18
+STU013,Mathematics,50,30,23
+STU013,Machine Learning,50,30,28
+STU013,Database Management,50,30,20
+STU013,Java Programming,50,30,25
+STU014,Python Programming,50,30,21
+STU014,Mathematics,50,30,26
+STU014,Machine Learning,50,30,18
+STU014,Database Management,50,30,23
+STU014,Java Programming,50,30,28
+STU015,Python Programming,50,30,24
+STU015,Mathematics,50,30,29
+STU015,Machine Learning,50,30,21
+STU015,Database Management,50,30,26
+STU015,Java Programming,50,30,18
+STU016,Python Programming,50,30,27
+STU016,Mathematics,50,30,19
+STU016,Machine Learning,50,30,24
+STU016,Database Management,50,30,29
+STU016,Java Programming,50,30,21
+STU017,Python Programming,50,30,30
+STU017,Mathematics,50,30,22
+STU017,Machine Learning,50,30,27
+STU017,Database Management,50,30,19
+STU017,Java Programming,50,30,24
+STU018,Python Programming,50,30,20
+STU018,Mathematics,50,30,25
+STU018,Machine Learning,50,30,30
+STU018,Database Management,50,30,22
+STU018,Java Programming,50,30,27
+STU019,Python Programming,50,30,23
+STU019,Mathematics,50,30,28
+STU019,Machine Learning,50,30,20
+STU019,Database Management,50,30,25
+STU019,Java Programming,50,30,30
+STU020,Python Programming,50,30,26
+STU020,Mathematics,50,30,18
+STU020,Machine Learning,50,30,23
+STU020,Database Management,50,30,28
+STU020,Java Programming,50,30,20
+STU021,Python Programming,50,30,29
+STU021,Mathematics,50,30,21
+STU021,Machine Learning,50,30,26
+STU021,Database Management,50,30,18
+STU021,Java Programming,50,30,23
+STU022,Python Programming,50,30,19
+STU022,Mathematics,50,30,24
+STU022,Machine Learning,50,30,29
+STU022,Database Management,50,30,21
+STU022,Java Programming,50,30,26
+STU023,Python Programming,50,30,22
+STU023,Mathematics,50,30,27
+STU023,Machine Learning,50,30,19
+STU023,Database Management,50,30,24
+STU023,Java Programming,50,30,29
+STU024,Python Programming,50,30,25
+STU024,Mathematics,50,30,30
+STU024,Machine Learning,50,30,22
+STU024,Database Management,50,30,27
+STU024,Java Programming,50,30,19
+STU025,Python Programming,50,30,28
+STU025,Mathematics,50,30,20
+STU025,Machine Learning,50,30,25
+STU025,Database Management,50,30,30
+STU025,Java Programming,50,30,22
+STU026,Python Programming,50,30,18
+STU026,Mathematics,50,30,23
+STU026,Machine Learning,50,30,28
+STU026,Database Management,50,30,20
+STU026,Java Programming,50,30,25
+STU027,Python Programming,50,30,21
+STU027,Mathematics,50,30,26
+STU027,Machine Learning,50,30,18
+STU027,Database Management,50,30,23
+STU027,Java Programming,50,30,28
+STU028,Python Programming,50,30,24
+STU028,Mathematics,50,30,29
+STU028,Machine Learning,50,30,21
+STU028,Database Management,50,30,26
+STU028,Java Programming,50,30,18
+STU029,Python Programming,50,30,27
+STU029,Mathematics,50,30,19
+STU029,Machine Learning,50,30,24
+STU029,Database Management,50,30,29
+STU029,Java Programming,50,30,21
+STU030,Python Programming,50,30,30
+STU030,Mathematics,50,30,22
+STU030,Machine Learning,50,30,27
+STU030,Database Management,50,30,19
+STU030,Java Programming,50,30,24
